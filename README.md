@@ -6,7 +6,7 @@ Install ffmpeg and Python 3:
 * Debian/Ubuntu: `sudo apt install -y ffmpeg python3`
 * Mac OS X: `brew install ffmpeg python`
 
-Install Python tqdm module: `sudo python3 -m pip install requests --upgrade tqdm`
+Install Python dependencies: `sudo python3 -m pip install requests --upgrade tqdm`
 
 ## Instructions to download video
 For each video you want to download:
