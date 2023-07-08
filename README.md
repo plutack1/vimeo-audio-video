@@ -26,7 +26,7 @@ a sample file 'sample_download.tsv' is included in this repo which can be editte
 
 Then run the script, providing the name of this file with names and URLs:
 ```bash
-./vimeo-autio-and-video.py -i download.tsv
+./vimeo-audio-and-video.py -i download.tsv
 ```
 
 ## Acknowledgements
